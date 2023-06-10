@@ -12,7 +12,10 @@
     "data:import": "node backend/seeder",
     "data:destroy": "node backend/seeder -d"
   },
-  "author": "Dzenis H.",
+  "author": {
+    "name": "Dzenis H.",
+    "url": "https://dzenis.tech"
+  },
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
