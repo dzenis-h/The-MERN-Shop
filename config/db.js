@@ -1,11 +1,8 @@
 import mongoose from "mongoose";
 
-const MONGO_URI =
-  "mongodb+srv://BiggaHD:Test_321@cluster0.ywsi1.mongodb.net/MERN_Shop?retryWrites=true&w=majority";
-
 const connectDB = async () => {
   try {
-    const conn = await mongoose.connect(MONGO_URI, {});
+    const conn = await mongoose.connect(process.env.MONGO_URI, {});
 
     console.log(`MongoDB Connected: ${conn.connection.host}`.cyan.underline);
   } catch (error) {
