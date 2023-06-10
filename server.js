@@ -34,7 +34,7 @@ app.use("/uploads", express.static(path.join(__dirname, "/uploads")));
 // Serve static files from the build folder
 app.use(express.static(path.join(__dirname, "build")));
 
-// For any other route, serve the index.html file
+// For any other route, serve the index.html file (ReactJS).
 app.get("*", (req, res) => {
   res.sendFile(path.join(__dirname, "build", "index.html"));
 });
