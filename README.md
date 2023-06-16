@@ -1,5 +1,5 @@
 ##
-[GitHub repo size](https://img.shields.io/github/repo-size/dzenis-h/The-MERN-Shop)
+![GitHub repo size](https://img.shields.io/github/repo-size/dzenis-h/The-MERN-Shop)
 ![GitHub contributors](https://img.shields.io/github/contributors/dzenis-h/The-MERN-Shop)
 ![GitHub stars](https://img.shields.io/github/stars/dzenis-h/The-MERN-Shop?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/dzenis-h/The-MERN-Shop?style=social)
