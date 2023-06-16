@@ -2,7 +2,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/dzenis-h/The-MERN-Shop)
 ![GitHub contributors](https://img.shields.io/github/contributors/dzenis-h/The-MERN-Shop)
 ![GitHub stars](https://img.shields.io/github/stars/dzenis-h/The-MERN-Shop?style=social)
-![GitHub forks](https://img.shields.io/github/forks/dzenis-h/The-MERN-Shop?style=social)
+![GitHub forks](https://img.shields.io/github/forks/dzenis-h/*?style=social)
 [![LinkedIn Follow](https://img.shields.io/badge/-Follow-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/dzenis-h/)](https://www.linkedin.com/in/dzenis-h/)
 [![GitHub Follow](https://img.shields.io/badge/-Follow-black?style=social&logo=github&link=https://github.com/dzenis-h)](https://github.com/dzenis-h)
 ##
