@@ -1,5 +1,11 @@
 ##
-
+[GitHub repo size](https://img.shields.io/github/repo-size/dzenis-h/The-MERN-Shop)
+![GitHub contributors](https://img.shields.io/github/contributors/dzenis-h/The-MERN-Shop)
+![GitHub stars](https://img.shields.io/github/stars/dzenis-h/The-MERN-Shop?style=social)
+![GitHub forks](https://img.shields.io/github/forks/dzenis-h/The-MERN-Shop?style=social)
+[![LinkedIn Follow](https://img.shields.io/badge/-Follow-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/dzenis-h/)](https://www.linkedin.com/in/dzenis-h/)
+[![GitHub Follow](https://img.shields.io/badge/-Follow-black?style=social&logo=github&link=https://github.com/dzenis-h)](https://github.com/dzenis-h)
+##
 # MERN Shop :shopping_cart:
 
 MERN Shop is a full-stack e-commerce web app built with the MERN stack. It allows users to browse and buy products online, as well as manage their orders and profiles. It also has an admin panel for managing products, users, and orders.
