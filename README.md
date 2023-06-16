@@ -5,6 +5,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/dzenis-h/The-MERN-Shop?style=social)
 [![LinkedIn Follow](https://img.shields.io/badge/-Follow-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/dzenis-h/)](https://www.linkedin.com/in/dzenis-h/)
 [![GitHub Follow](https://img.shields.io/badge/-Follow-black?style=social&logo=github&link=https://github.com/dzenis-h)](https://github.com/dzenis-h)
+[![GitHub Follow](https://img.shields.io/badge/-Follow-blue?style=social&logo=twitter&link=[BiggaHD](https://twitter.com/home))](https://github.com/dzenis-h)
 ##
 # MERN Shop :shopping_cart:
 
